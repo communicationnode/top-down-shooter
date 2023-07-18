@@ -1,6 +1,6 @@
 ## Example-Top-Down-Shooter.
 
-![](readme-screenshots/game-scene.png)
+![](readme-screenshots/show.gif)
 
 **Описание:**
 
@@ -25,7 +25,7 @@
 
 **Игровая сцена**
 
-![](readme-screenshots/game-scene-dead.png)
+![](readme-screenshots/game-scene.png)
 
 Вид сверху.
 В верхнем левом углу должна быть кнопка выхода в главное меню.
