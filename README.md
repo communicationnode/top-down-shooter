@@ -1,6 +1,6 @@
-## example-top-down-shooter
+## :dvd: example-top-down-shooter :dvd:
 
-<details><summary>Description:</summary>
+<details><summary>:page_with_curl: Description:</summary>
 
 > ![](readme-screenshots/show.gif) </br>
 > The purpose of this test task is to create a Top Down shooter in which the player controls a character and can move around the map, shooting at enemies, using various weapons, and picking up bonuses. </br>
@@ -9,14 +9,14 @@
 > The balance of this gameplay does not matter. </br>
 </details>
 
-<details><summary>Game scenes:</summary>
+<details><summary>:page_with_curl: Game scenes:</summary>
   
 > There should be two game scenes:
 > * menu scene; </br>
 > * game scene.
 </details>
 
-<details><summary>Main menu:</summary>
+<details><summary>:page_with_curl: Main menu:</summary>
   
 > ![](readme-screenshots/main-menu.png) </br>
 > On the main screen there are: </br>
@@ -25,7 +25,7 @@
 
 </details>
 
-<details><summary>Game scene:</summary>
+<details><summary>:page_with_curl: Game scene:</summary>
   
 > ![](readme-screenshots/game-scene.png) </br>
 > Top view. </br>
@@ -33,7 +33,7 @@
 > The number of points scored in the current gaming session should be displayed at the top center. </br>
 </details>
 
-<details><summary>Player:</summary>
+<details><summary>:page_with_curl: Player:</summary>
   
 > The player is initially positioned in the center of the map. </br>
 > The player can walk. </br>
@@ -42,7 +42,7 @@
 
 </details>
 
-<details><summary>Controls:</summary>
+<details><summary>:page_with_curl: Controls:</summary>
   
 > ### Management </br>
 > movement: ```WASD```; </br>
@@ -52,7 +52,3 @@
 > Turning speed: 180 degrees per second. </br>
 > The player can pick up different bonuses that give him weapons or temporary enhancements. </br>
 </details>
-
-
-
-
