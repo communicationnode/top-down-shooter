@@ -9,14 +9,14 @@
 > The balance of this gameplay does not matter. </br>
 </details>
 
-<details><summary>Game scenes</summary>
+<details><summary>Game scenes:</summary>
   
 > There should be two game scenes:
 > * menu scene; </br>
 > * game scene.
 </details>
 
-<details><summary>Main menu</summary>
+<details><summary>Main menu:</summary>
   
 > ![](readme-screenshots/main-menu.png) </br>
 > On the main screen there are: </br>
@@ -25,7 +25,7 @@
 
 </details>
 
-<details><summary>Game scene</summary>
+<details><summary>Game scene:</summary>
   
 > ![](readme-screenshots/game-scene.png) </br>
 > Top view. </br>
@@ -33,7 +33,7 @@
 > The number of points scored in the current gaming session should be displayed at the top center. </br>
 </details>
 
-<details><summary>Player</summary>
+<details><summary>Player:</summary>
   
 > The player is initially positioned in the center of the map. </br>
 > The player can walk. </br>
