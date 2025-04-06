@@ -1,5 +1,10 @@
 ## :dvd: example-top-down-shooter :dvd:
 
+![Static Badge](https://img.shields.io/badge/communicationnode-communicationnode)
+![GitHub top language](https://img.shields.io/github/languages/top/communicationnode/top-down-shooter)
+![GitHub](https://img.shields.io/github/license/communicationnode/top-down-shooter)
+![GitHub Repo stars](https://img.shields.io/github/stars/communicationnode/top-down-shooter)
+
 <details><summary>:page_with_curl: Description:</summary>
 
 > ![](readme-screenshots/show.gif) </br>
