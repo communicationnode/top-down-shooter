@@ -1,13 +1,23 @@
-## :dvd: example-top-down-shooter :dvd:
+# :dvd: Example top down shooter :dvd:
+
+------
 
 ![Static Badge](https://img.shields.io/badge/communicationnode-communicationnode)
 ![GitHub top language](https://img.shields.io/github/languages/top/communicationnode/top-down-shooter)
 ![GitHub](https://img.shields.io/github/license/communicationnode/top-down-shooter)
 ![GitHub Repo stars](https://img.shields.io/github/stars/communicationnode/top-down-shooter)
 
+# Project preview:
+
+------
+
+<div align="center"> <img src="readme-screenshots/show.gif" /> </div>
+
+------
+
 <details><summary>:page_with_curl: Description:</summary>
 
-> ![](readme-screenshots/show.gif) </br>
+>  </br>
 > The purpose of this test task is to create a Top Down shooter in which the player controls a character and can move around the map, shooting at enemies, using various weapons, and picking up bonuses. </br>
 > The goal of the game is to score as many points as possible before dying. </br>
 > The high score value should be saved between game sessions. </br>
@@ -15,14 +25,14 @@
 </details>
 
 <details><summary>:page_with_curl: Game scenes:</summary>
-  
+
 > There should be two game scenes:
 > * menu scene; </br>
 > * game scene.
 </details>
 
 <details><summary>:page_with_curl: Main menu:</summary>
-  
+
 > ![](readme-screenshots/main-menu.png) </br>
 > On the main screen there are: </br>
 > * “start” button, which launches the game scene; </br>
@@ -31,7 +41,7 @@
 </details>
 
 <details><summary>:page_with_curl: Game scene:</summary>
-  
+
 > ![](readme-screenshots/game-scene.png) </br>
 > Top view. </br>
 > In the upper left corner there should be a button to exit to the main menu. </br>
@@ -39,7 +49,7 @@
 </details>
 
 <details><summary>:page_with_curl: Player:</summary>
-  
+
 > The player is initially positioned in the center of the map. </br>
 > The player can walk. </br>
 >The player can shoot. </br>
@@ -48,7 +58,7 @@
 </details>
 
 <details><summary>:page_with_curl: Controls:</summary>
-  
+
 > ### Management </br>
 > movement: ```WASD```; </br>
 > shooting: ```Left mouse button | Right mouse button```. </br>
