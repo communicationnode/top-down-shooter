@@ -11,7 +11,7 @@
 
 ------
 
-<div align="center"> <img src="readme-screenshots/show.gif" /> </div>
+<div align="center"> <img width="700" src="readme-screenshots/show.gif" /> </div>
 
 ------
 
